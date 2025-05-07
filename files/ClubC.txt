@@ -1,0 +1,16 @@
+301,Isabella Rogers,13,Female,Freestyle,50,33.80
+302,Mia Bennett,11,Female,Breaststroke,100,1:29.70,Freestyle,50,37.50
+303,Sofia Perry,12,Female,Freestyle,50,34.20
+304,Amelia Brooks,10,Female,Breaststroke,100,1:28.80
+305,Jack Peterson,13,Male,Freestyle,50,32.30
+306,Owen Murphy,12,Male,Breaststroke,100,1:23.00,Freestyle,50,30.30
+307,Ethan Powell,10,Male,Freestyle,50,35.10
+308,Aiden Foster,11,Male,Breaststroke,100,1:26.10,Freestyle,50,31.50
+309,Lila Morgan,11,Female,Freestyle,50,37.00
+310,Emma Castillo,12,Female,Breaststroke,100,1:29.40
+311,Natalie Gomez,13,Female,Freestyle,50,33.40,Breaststroke,100,1:25.20
+312,Hannah Scott,10,Female,Freestyle,50,36.90
+313,William Cruz,12,Male,Freestyle,50,31.70,Breaststroke,100,1:22.90
+314,Andrew Stevens,13,Male,Breaststroke,100,1:23.90
+315,Luke Harris,11,Male,Freestyle,50,33.00
+316,Benjamin Gray,10,Male,Breaststroke,100,1:28.50

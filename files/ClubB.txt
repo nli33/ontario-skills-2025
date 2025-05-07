@@ -1,0 +1,16 @@
+201,Emma Wright,11,Female,Freestyle,50,36.10,Breaststroke,100,1:28.30
+202,Olivia Johnson,10,Female,Freestyle,50,35.60
+203,Ava Hernandez,13,Female,Breaststroke,100,1:25.80
+204,Madison Turner,12,Female,Freestyle,50,32.90
+205,Ryan Lewis,11,Male,Breaststroke,100,1:24.20,Freestyle,50,30.60
+206,Connor Walker,13,Male,Freestyle,50,32.10,Breaststroke,100,1:23.40
+207,Liam Carter,10,Male,Breaststroke,100,1:27.50
+208,Dylan Parker,12,Male,Freestyle,50,31.40
+209,Sophie Harris,11,Female,Freestyle,50,36.70
+210,Isabelle Martinez,10,Female,Breaststroke,100,1:28.00
+211,Mia Reynolds,13,Female,Freestyle,50,33.30,Breaststroke,100,1:25.50
+212,Ella Thompson,12,Female,Freestyle,50,33.90
+213,Jacob Foster,11,Male,Breaststroke,100,1:24.90,Freestyle,50,30.90
+214,James Carter,13,Male,Freestyle,50,32.00
+215,Noah Ramirez,10,Male,Breaststroke,100,1:27.10
+216,Owen Fisher,12,Male,Freestyle,50,31.10
